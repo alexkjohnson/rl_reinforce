@@ -1,0 +1,17 @@
+# Python / Conda environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Model checkpoints (since you pushed the one you care about to HF)
+*.pth
+*.pt
+*.ckpt
+runs/
+wandb/
+
+# OS files
+.DS_Store
+Thumbs.db

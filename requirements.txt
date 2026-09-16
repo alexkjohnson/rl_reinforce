@@ -1,0 +1,12 @@
+torch==2.14.0
+numpy==2.5.3
+gymnasium[other]
+flappy-bird-gymnasium==0.4.0
+pygame-ce==2.5.8
+matplotlib==3.11.2
+seaborn==0.13.2
+pandas==3.0.5
+huggingface_hub==1.31.0
+moviepy==2.2.1
+opencv-python==5.0.0.93
+ple @ git+https://github.com/ntasfi/PyGame-Learning-Environment.git@3dbe79dc0c35559bb441b9359948aabf9bb3d331
